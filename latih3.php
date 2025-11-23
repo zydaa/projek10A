@@ -18,7 +18,6 @@
         // print hanya menerima 1 argumen, sehingga harus digabungkan dulu.
         print("Saya ".$namad.", ".$namat.", ".$namab.", kapten kapal.</b><br>");
 
-        // Baris ini tidak ada di soal asli tapi ditambahkan agar output lebih jelas
         print("Nama lengkap: ".$namad.$namat.$namab."<br>"); 
         
         echo "<br>";
